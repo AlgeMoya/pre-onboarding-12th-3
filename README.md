@@ -4,7 +4,7 @@
 강석규
 
 ## 🌐 배포 주소
-https://pre-onboarding-12th-3-8.vercel.app/
+https://pre-onboarding-12th-3-chi.vercel.app/
 
 ## ⚙ 실행 방법
 1. 프로젝트 내려받기: `git clone <https://github.com/AlgeMoya/pre-onboarding-12th-3-8.git> ./`
