@@ -54,9 +54,6 @@ function App() {
     };
 
     checkExpiry();
-
-    // 페이지가 언로드 될 때 실행되는 cleanup 함수에도 만료 확인 로직 추가
-    return () => checkExpiry();
   }, []);
 
   useEffect(() => {
