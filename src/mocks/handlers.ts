@@ -1,6 +1,6 @@
 import { rest } from "msw";
 // JSON 파일을 불러온다.
-import sick from "./dummy.json";
+import sick from "./db.json";
 
 export const handlers = [
     rest.get("/sick", async (req, res, ctx) => {
