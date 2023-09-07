@@ -1,7 +1,7 @@
 # 프리온보딩 3주차 과제
 
 ## 🚀 팀원
-여기에 팀원 입력
+강석규
 
 ## 🌐 배포 주소
 https://pre-onboarding-12th-3-8.vercel.app/
